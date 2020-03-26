@@ -1,0 +1,24 @@
+{
+  "name": "6c",
+  "version": "1.0.0",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saigakov/progect-yoga.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saigakov/progect-yoga/issues"
+  },
+  "homepage": "https://github.com/saigakov/progect-yoga#readme",
+  "devDependencies": {
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  },
+  "dependencies": {},
+  "description": ""
+}
